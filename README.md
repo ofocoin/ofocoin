@@ -1,2 +1,3 @@
-# ofocoin
-ofo coin system development
+# OFO Coin
+Over the past few years, the way we produce and consume the content has changed drastically. Not only the content lifecycle has undergone the drastic change but what content we consume, how we consume and when we consume, makes all the difference. Content has become multi-screen and multi-dimensional.
+With increasing Computer and Mobile penetration, anyone can create and share content which can be consumed by diverse audience. However, there is formal framework in the market today which can be used to capture end to end content lifecycle, promote open economy for content creators and provide robust distribution network which has no strings attached. OFO Coin is first of its kind crypto-currency, based on Waves platform, created to support such content ecosystem framework.
